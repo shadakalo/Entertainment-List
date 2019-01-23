@@ -1,0 +1,16 @@
+plugin:
+    name: 'mdtanvirhaque.movies::lang.plugin.name'
+    description: 'mdtanvirhaque.movies::lang.plugin.description'
+    author: 'Md Tanvir Haque'
+    icon: oc-icon-video-camera
+    homepage: ''
+navigation:
+    main-menu-item:
+        label: Movies
+        url: mdtanvirhaque/movies/movies
+        icon: icon-video-camera
+        sideMenu:
+            side-menu-item:
+                label: Genres
+                url: mdtanvirhaque/movies/genre
+                icon: icon-tag

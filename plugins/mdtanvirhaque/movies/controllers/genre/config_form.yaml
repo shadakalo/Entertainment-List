@@ -1,0 +1,10 @@
+name: Genre
+form: $/mdtanvirhaque/movies/models/genre/fields.yaml
+modelClass: MdTanvirHaque\Movies\Models\Genre
+defaultRedirect: mdtanvirhaque/movies/genre
+create:
+    redirect: 'mdtanvirhaque/movies/genre/update/:id'
+    redirectClose: mdtanvirhaque/movies/genre
+update:
+    redirect: mdtanvirhaque/movies/genre
+    redirectClose: mdtanvirhaque/movies/genre

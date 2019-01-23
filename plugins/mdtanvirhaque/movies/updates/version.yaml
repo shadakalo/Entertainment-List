@@ -1,0 +1,35 @@
+1.0.1:
+    - 'Initialize plugin.'
+1.0.2:
+    - 'Created table mdtanvirhaque_movies_'
+    - builder_table_create_mdtanvirhaque_movies_.php
+1.0.3:
+    - 'Updated table mdtanvirhaque_movies_'
+    - builder_table_update_mdtanvirhaque_movies_.php
+1.0.4:
+    - 'Created table mdtanvirhaque_movies_genre'
+    - builder_table_create_mdtanvirhaque_movies_genre.php
+1.0.5:
+    - 'Updated table mdtanvirhaque_movies_genre'
+    - builder_table_update_mdtanvirhaque_movies_genre.php
+1.0.6:
+    - 'Drop table mdtanvirhaque_movies_genre'
+    - builder_table_delete_mdtanvirhaque_movies_genre.php
+1.0.7:
+    - 'Created table mdtanvirhaque_movies_genre'
+    - builder_table_create_mdtanvirhaque_movies_genre_2.php
+1.0.8:
+    - 'Updated table mdtanvirhaque_movies_genre'
+    - builder_table_update_mdtanvirhaque_movies_genre_2.php
+1.0.9:
+    - 'Created table mdtanvirhaque_movies_movies_genre'
+    - builder_table_create_mdtanvirhaque_movies_movies_genre.php
+1.0.10:
+    - 'Drop table mdtanvirhaque_movies_movies_genre'
+    - builder_table_delete_mdtanvirhaque_movies_movies_genre.php
+1.0.11:
+    - 'Created table mdtanvirhaque_movies_movies_genre'
+    - builder_table_create_mdtanvirhaque_movies_movies_genre_2.php
+1.0.12:
+    - 'Updated table mdtanvirhaque_movies_'
+    - builder_table_update_mdtanvirhaque_movies__2.php

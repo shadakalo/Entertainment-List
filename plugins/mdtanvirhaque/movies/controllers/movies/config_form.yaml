@@ -1,0 +1,11 @@
+name: Movies
+modelClass: MdTanvirHaque\Movies\Models\Movie
+form: $/mdtanvirhaque/movies/models/movie/fields.yaml
+defaultRedirect: mdtanvirhaque/movies/movies
+create:
+    redirect: 'mdtanvirhaque/movies/movies/update/:id'
+    redirectClose: mdtanvirhaque/movies/movies
+update:
+    redirect: mdtanvirhaque/movies/movies
+    redirectClose: mdtanvirhaque/movies/movies
+preview: {  }

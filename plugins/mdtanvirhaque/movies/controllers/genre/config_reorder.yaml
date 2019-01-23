@@ -1,0 +1,4 @@
+title: Genre
+modelClass: MdTanvirHaque\Movies\Models\Genre
+toolbar:
+    buttons: reorder_toolbar

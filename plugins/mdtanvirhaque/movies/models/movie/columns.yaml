@@ -1,0 +1,16 @@
+columns:
+    name:
+        label: Name
+        type: text
+        searchable: true
+        sortable: true
+    description:
+        label: Information
+        type: text
+    year:
+        label: Year
+        type: text
+        sortable: true
+    slug:
+        label: slug
+        type: text
